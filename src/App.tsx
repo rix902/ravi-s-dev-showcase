@@ -6,6 +6,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 
+// Portfolio App - Ravi Prajapati
 const queryClient = new QueryClient();
 
 const App = () => (
