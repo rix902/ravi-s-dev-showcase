@@ -102,7 +102,7 @@ const Contact = () => {
                 <span className="text-sm">LinkedIn Profile</span>
               </a>
               <a
-                href="https://github.com/"
+                href="https://github.com/rix902/Rix"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors"
