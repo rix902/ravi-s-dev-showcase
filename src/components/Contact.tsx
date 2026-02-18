@@ -91,7 +91,7 @@ const Contact = () => {
                 <span className="text-sm">123pravikumar@gmail.com</span>
               </a>
               <a
-                href="https://linkedin.com/in/"
+                href="https://www.linkedin.com/in/ravi-prajapati-9144aa26b"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors"
